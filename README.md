@@ -1,7 +1,7 @@
 # habit-tracker
 Трекер привычек.
 
-![Habbits tracker](https://github.com/NiksonGlikson/habit-tracker/raw/main/images/habbits.png)
+![Habbits tracker](https://github.com/NiksonGlikson/habbit-tracker-vanilla-JS/raw/main/images/habbits.png)
 
 Основан на HTML, CSS, Vanilla JS, без использования фреймворков.
 
