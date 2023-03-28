@@ -9,4 +9,4 @@
 
 Ссылка на проект:
 
-# https://niksonglikson.github.io/habit-tracker/
+# https://niksonglikson.github.io/habbit-tracker-vanilla-JS-/
